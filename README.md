@@ -10,20 +10,22 @@ Navegue por dezenas de ferramentas diversas que podem ser usadas para gerar e ge
 4. [Organizadores e Produtividade](#organizadores-produtividade)
 
 ## Conteúdo
-
 <a id="pesquisa-revisao-teorica-base-conhecimento"></a>
+
 ### Pesquisa, Revisão Teórica e Base de Conhecimento
+Encontre e gerencie artigos científicos, curadorias, bases de dados e referências.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in magna ante. Mauris ac gravida dui, vel eleifend orci. Donec ultrices euismod magna, ac hendrerit nisl tempus pulvinar. Donec et sapien dignissim, vulputate ante ac, ultrices mi. Nulla vehicula massa orci, ut viverra quam interdum vitae. Pellentesque consequat erat ac vestibulum aliquet. Ut sed purus eu turpis tincidunt luctus at non orci. In in erat vel augue dignissim efficitur. Proin justo dolor, ultricies nec pellentesque ut, iaculis at nibh. Nullam non justo mattis, dignissim nibh id, auctor nisl. Quisque ut arcu quis ligula dapibus feugiat a non eros. Morbi tincidunt metus diam, sagittis feugiat enim lobortis id. Suspendisse sed tempus magna, vel ultrices eros. Aenean fringilla libero at nisl dignissim, a bibendum nisl cursus.
+**📁 Banco de Dados Públicos e Abertos - Brasil**
 
-Fusce sit amet ante at quam eleifend elementum. Aenean consequat sem at sapien iaculis, vel pretium magna rhoncus. Mauris ac odio luctus, posuere nunc vehicula, pharetra diam. Nam aliquam velit ut rhoncus faucibus. Aliquam fermentum est pharetra mi dapibus pretium. Phasellus at pulvinar arcu, vel aliquam neque. Quisque eu elit efficitur, convallis metus et, suscipit est. Morbi rhoncus ligula id varius tempus. Nulla sit amet mi tortor. Phasellus vel sollicitudin orci. Integer nec tortor hendrerit, rhoncus dui vitae, dapibus risus. Maecenas at pulvinar dui. Vivamus in posuere massa. Donec ex ex, sollicitudin sit amet mattis eget, imperdiet a lectus.
+**O que é?**
+O acesso a dados públicos é uma das maiores ferramentas de democratização disponíveis atualmente. É direito do cidadão ter acesso a esses dados e deveria ser um dever usá-los e disseminá-los para o uso em prol da população. Abaixo segue uma lista de diversas fontes de dados públicos do Brasil. O Brasil tem uma lei importante, a Lei de Acesso a Informação, para que possamos exigir os dados que foram e os que ainda não foram abertos. Para saber mais sobre como fazer isso, acesse: [https://www.gov.br/acessoainformacao/pt-br](https://www.gov.br/acessoainformacao/pt-br)
 
-Mauris laoreet tellus non diam viverra sagittis. Sed a pharetra diam. Vivamus eu risus justo. Nam pellentesque pulvinar arcu, ac tincidunt felis sagittis et. Praesent commodo urna a laoreet convallis. Etiam varius lectus eget neque pretium, eget pellentesque lectus eleifend. Cras viverra dolor laoreet pulvinar viverra. Suspendisse facilisis, mauris at porttitor faucibus, elit nisl sagittis neque, nec placerat est lorem eget dui. Vivamus tincidunt cursus lorem, id porttitor enim molestie nec. Nam vehicula iaculis posuere. Maecenas ullamcorper justo id metus dictum commodo.
+**Categorias:** Código e Software, Comunicação e Comunidade, Conceber, Criatividade, Dados, Entender, Pesquisa e Observação, Social e Sustentabilidade, Visual e Gráfico.
 
-Phasellus quis dignissim lacus. Etiam dui lorem, posuere eget pretium ut, bibendum id leo. Morbi non faucibus lectus. Donec sed nunc consequat lorem scelerisque hendrerit sit amet in dui. Nulla viverra nisl tortor, sed congue urna congue et. In tempus eleifend enim efficitur mollis. Phasellus auctor arcu odio, commodo pharetra sem tempus eu. Praesent non orci felis.
+**Tags:** Aplicações, Arquivo, Cidadania, Criatividade, Dados, Documento, Domínio Público, Governo, Grátis, Gratuito, História/Narrativa, Imagem, Informação, Política, Programação, Público, Recursos, Fontes de Dados, Dados Públicos, Banco de Recursos
 
-Nam sagittis diam id diam luctus euismod. Vivamus faucibus at orci in iaculis. Morbi luctus, mauris sit amet placerat pellentesque, libero mauris cursus sapien, ut pulvinar ipsum lacus sit amet nulla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut laoreet turpis sed nisi laoreet, vel tempus turpis aliquam. Mauris et lacinia ligula. Nam venenatis nisi augue, ut euismod nulla ullamcorper id. Curabitur varius, velit ut efficitur dignissim, mauris ipsum iaculis lectus, sed interdum tellus libero vel tellus. Cras interdum pharetra augue, quis euismod est ornare id. Duis nec porttitor massa.
-
-<a id="campo-coleta-processamento-dados"></a>
-
-Oi
+| Fonte | Descrição | Link de Acesso |
+| --- | --- | --- |
+| **Portal de Dados do Governo Federal** | Banco Central, estados e municípios, secretarias federais, ministérios, previdência, infraestrutura. Disponibiliza aplicativos do próprio governo que usam os dados de forma especifica. | http://dados.gov.br/ |
+| **Portal da Transparência** | Transferência de recursos para estados e municípios, receitas, gastos, convênios, programas sociais e entre outros. | http://transparencia.gov.br/ |
+| **Rede Social Brasileira por Cidades Justas e Sustentáveis** | Dados da Rede Social para Cidades Justas e Sustentáveis | https://www.redesocialdecidades.org.br/dados-abertos |
